@@ -90,4 +90,6 @@ Results are shown in the following figures:
 ![Figure 2.3](Images/test1.3.png)
 
 These figures compare the **predicted electricity load with the actual load**, illustrating the forecasting accuracy of the models.
-
+---
+## Log wandb
+https://wandb.ai/tuankiet1302051-fpt-university/electricity-demand-prediction/reports/Project-2-report--VmlldzoxNjE4MTg4NQ?accessToken=ae4toof2oe53d11atu15s6vu3re3orlkjbl816j16ux4l1wmvhh02ouk5347pmrw
